@@ -7,8 +7,8 @@ import ThemeSwitch from './components/theme-switch'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Pattern Decoder Game',
-  description: 'A React + TypeScript puzzle game where players decode hidden patterns from flashing visual signals.',
+  title: 'MindMatrix | Pattern Decoder Game',
+  description: 'A puzzle game where players decode hidden patterns from flashing visual signals',
 }
 
 export default function RootLayout({
